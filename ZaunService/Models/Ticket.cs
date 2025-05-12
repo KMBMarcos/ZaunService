@@ -11,7 +11,16 @@ public partial class Ticket
 
     public long? ServiceId { get; set; }
 
-    public string Description { get; set; } = null!;
+    public string Description { get; set; } = null!; // Campo para el mensaje del ticket
+
+
+    // Añadir campo para la institución
+    // Añadir campo para la provincia
+    // Añadir campo para el municipio
+    // Añadir campo para el sector
+    // Añadir campo para el celular
+    // Añadir campo para el teléfono
+    // Añadir campo para el correo electrónico
 
     public string Status { get; set; } = null!;
 

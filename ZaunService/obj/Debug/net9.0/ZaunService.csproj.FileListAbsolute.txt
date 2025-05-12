@@ -228,3 +228,4 @@ C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Do
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunService.pdb
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunService.genruntimeconfig.cache
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ref\ZaunService.dll
+C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunService.sourcelink.json

@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using ZaunService.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<TicketServiceContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TicketServiceContext"));
+});
 
 var app = builder.Build();
 
