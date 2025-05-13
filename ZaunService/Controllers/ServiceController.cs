@@ -16,7 +16,9 @@ namespace ZaunService.Controllers
         // GET: Service
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Tickets.ToListAsync());
+            return View(await _context.Tickets
+                .Include(t=>t.Service)
+                .ToListAsync());
         }
     }
 }
