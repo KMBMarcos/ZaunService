@@ -13,12 +13,8 @@ namespace ZaunService.Controllers
             _context = context;
         }
 
-        // GET: Service
+        // GET: Service ==> Endpoint convertido a Lambda
         public async Task<IActionResult> Index()
-        {
-            return View(await _context.Tickets
-                .Include(t=>t.Service)
-                .ToListAsync());
-        }
+            => View(await _context.Services.ToListAsync());
     }
 }

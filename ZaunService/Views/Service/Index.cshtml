@@ -1,27 +1,21 @@
-﻿@model List<Ticket>
+﻿@model List<Service>
 
-<h1>Tickets</h1>
+<h1> Servicios</h1>
 
 <table class="table">
     <thead>
         <tr>
-            <th>No. ticket</th>
-            <th>Servicio</th>
-            <th>Mensaje</th>
-            <th>Estado</th>
-            <th>Fecha de creación</th>
-
+            <th>Nombre</th>
+            <th>Descripción</th>
         </tr>
     </thead>
+
     <tbody>
-        @foreach (var ticket in Model)
+        @foreach (var service in Model)
         {
             <tr>
-                <td>@Html.DisplayFor(m => ticket.Id)</td>
-                <td>@Html.DisplayFor(m => ticket.Service.Name)</td>
-                <td>@Html.DisplayFor(p => ticket.Description)</td>
-                <td>@Html.DisplayFor(p => ticket.Status)</td>
-                <td>@Html.DisplayFor(p => ticket.CreatedAt)</td>
+                <td>@Html.DisplayFor(m => service.Name)</td>
+                <td>@Html.DisplayFor(m => service.Description)</td>
             </tr>
         }
     </tbody>

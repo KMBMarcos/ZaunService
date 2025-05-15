@@ -1,0 +1,32 @@
+﻿@model List<Ticket>
+
+<h1>Tickets</h1>
+
+<p>
+    <a asp-action="Create">Crear Ticket</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>No. ticket</th>
+            <th>Servicio</th>
+            <th>Mensaje</th>
+            <th>Estado</th>
+            <th>Fecha de creación</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ticket in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(m => ticket.Id)</td>
+                <td>@Html.DisplayFor(m => ticket.Service.Name)</td>
+                <td>@Html.DisplayFor(p => ticket.Description)</td>
+                <td>@Html.DisplayFor(p => ticket.Status)</td>
+                <td>@Html.DisplayFor(p => ticket.CreatedAt)</td>
+            </tr>
+        }
+    </tbody>
+</table>
