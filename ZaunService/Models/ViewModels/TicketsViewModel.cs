@@ -6,8 +6,8 @@ namespace ZaunService.Models.ViewModels
     {
         [Required]
         [Display(Name = "Descripción de la solicitud.")]
-        public string Description { get; set; } = null!;
-        public string Status { get; set; } = null!;
+        public string Description { get; set; }
+        public string Status { get; set; }
         public DateTime CreatedAt { get; set; }
 
         [Required]

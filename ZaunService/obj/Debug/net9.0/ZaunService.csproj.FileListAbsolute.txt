@@ -215,12 +215,6 @@ C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Do
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets\msbuild.ZaunService.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets\msbuild.ZaunService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets\msbuild.build.ZaunService.props
-C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ZaunService.props
-C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ZaunService.props
-C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunServ.5171086F.Up2Date
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunService.dll
@@ -229,3 +223,8 @@ C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Do
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunService.genruntimeconfig.cache
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ref\ZaunService.dll
 C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\ZaunService.sourcelink.json
+C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\usuario local\OneDrive - Oficina Nac. Evaluación Sísmica (ONESVIE)\Documentos\helpdesk\ZaunService\ZaunService\obj\Debug\net9.0\staticwebassets.build.json.cache

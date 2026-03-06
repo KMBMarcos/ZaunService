@@ -21,6 +21,7 @@ namespace ZaunService.Controllers
             return View(await service.ToListAsync());
         }
 
+        // GET: Tickets/Create
         public IActionResult Create()
         {
             ViewData["Services"] = new SelectList(_context.Services, "Id", "Name");
