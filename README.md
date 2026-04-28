@@ -10,7 +10,7 @@ Plataforma de gestión de solicitudes de soporte técnico mediante tickets para 
 Formulario  →  Atención al Usuario (AU)  →  Dirección Técnica (DT)  →  Atención al Usuario (AU)
 ```
 
-1. **Formulario** — El usuario externo completa y envía su solicitud de soporte.
+1. **Formulario** — El usuario externo completa y envía su solicitud para una evaluación.
 2. **Atención al Usuario (AU)** — Recibe, revisa y registra la solicitud. Si requiere intervención técnica, la escala.
 3. **Dirección Técnica (DT)** — Analiza y resuelve la solicitud técnica.
 4. **Atención al Usuario (AU)** — Recibe la resolución y notifica/cierra la solicitud ante el usuario.

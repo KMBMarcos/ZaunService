@@ -13,6 +13,8 @@ public partial class User
 
     public string Role { get; set; } = null!;
 
+    public string? PasswordHash { get; set; }
+
     public virtual ICollection<TicketAssignment> TicketAssignments { get; set; } = new List<TicketAssignment>();
 
     public virtual ICollection<Ticket> Tickets { get; set; } = new List<Ticket>();

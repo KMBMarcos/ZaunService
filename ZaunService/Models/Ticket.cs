@@ -9,16 +9,18 @@ public partial class Ticket
 
     public long? ServiceId { get; set; }
 
-    public string Description { get; set; } = null!; // Campo para el mensaje del ticket
+    // Datos de la solicitud
+    public string Description { get; set; } = null!;
 
-
-    // Añadir campo para la institución
-    // Añadir campo para la provincia
-    // Añadir campo para el municipio
-    // Añadir campo para el sector
-    // Añadir campo para el celular
-    // Añadir campo para el teléfono
-    // Añadir campo para el correo electrónico
+    // Datos del solicitante
+    public string? NombreSolicitante { get; set; }
+    public string? Institucion { get; set; }
+    public string? Provincia { get; set; }
+    public string? Municipio { get; set; }
+    public string? Sector { get; set; }
+    public string? Telefono { get; set; }
+    public string? Celular { get; set; }
+    public string? CorreoContacto { get; set; }
 
     public string Status { get; set; } = null!;
 

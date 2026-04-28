@@ -15,6 +15,9 @@ public partial class TicketAssignment
 
     public int Stage { get; set; }
 
+    /// <summary>Notas de resolución (registradas por DT en Stage 3).</summary>
+    public string? Notes { get; set; }
+
     public virtual User? Admin { get; set; }
 
     public virtual Ticket? Ticket { get; set; }
