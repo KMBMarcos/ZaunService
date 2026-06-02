@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZaunService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00feebfc4601af5f58c78bdaa0cf30d9ccc6b72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f72649a182be753d0d13327dcbcd21709dcce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZaunService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZaunService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
