@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "ZaunServices.AppHost/ZaunServices.AppHost.csproj"
+  }
+}
